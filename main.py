@@ -1,4 +1,4 @@
-# (c) @RoyalKrrishna
+# (c) @filmiduniya2022
 
 from os import link
 from telethon import Button
